@@ -1,1 +1,0 @@
-const e=[],l={onBeforeRenderEnv:{valueSerialized:"null",type:"computed",definedAtData:null},dataEnv:{valueSerialized:"null",type:"computed",definedAtData:null}};export{e as configValuesImported,l as configValuesSerialized};
